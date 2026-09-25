@@ -4,7 +4,7 @@ Web App to perform calculations on the nutrition facts of various foods, to help
 
 ---
 
-## Features
+## Planned Features
 - Database of food with nutrition facts to pull from
 - Manual input of additional food items
 - Editable formulas and a custom formula library 
@@ -12,6 +12,6 @@ Web App to perform calculations on the nutrition facts of various foods, to help
 - Apply formulas from formula library directly to food items in database
 - Calculation history
 
-### Stretch Goals
+### Aspirational Features
 - Populate nutrition facts from phone camera images
 - Recommend foods based on nutrition goals and what you've already purchased/eaten
