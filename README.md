@@ -3,6 +3,10 @@
 Web App to perform calculations on the nutrition facts of various foods, to help with meal planning and comparing different food options. Initial plan is to start with a database of food items for a proof of concept, but plan to support reading nutrition facts with a phone camera so the math can be done on the fly in the grocery store.
 
 ---
+# Wireframes
+
+Click wireframes to open them in a new tab, they're unreadable as part of the README if viewed in dark mode 
+
 ## Calculator Page
 <img width="1066" height="814" alt="Calculator drawio" src="https://github.com/user-attachments/assets/7cbe725a-bb93-44bd-bf57-89641c27d29d" />
 
@@ -13,7 +17,7 @@ Web App to perform calculations on the nutrition facts of various foods, to help
 - Nutrition information can be selected and inserted into the expression from the list under the expression
 - Mathematical operations (addition, subtraction, multiplication, parentheses, etc) laid out as buttons on the right side of the calculator controls
 
-## Databse Page
+## Database Page
 <img width="1064" height="814" alt="FoodDatabase drawio" src="https://github.com/user-attachments/assets/7e8980aa-ad1f-486a-8274-23bec5cf1b98" />
 
 - Food database uses the same list of foods menu as the calculator page on the left of the page
@@ -28,11 +32,10 @@ Web App to perform calculations on the nutrition facts of various foods, to help
 ## Planned Features
 - Database of food with nutrition facts to pull from
 - Manual input of additional food items
-- Editable formulas and a custom formula library 
-  -  e.g. Protein/Calorie or Calories/Serving * Servings Per Container
+### Aspirational Features
 - Apply formulas from formula library directly to food items in database
 - Calculation history
-
-### Aspirational Features
+- Editable formulas and a custom formula library 
+  -  e.g. Protein/Calorie or Calories/Serving * Servings Per Container
 - Populate nutrition facts from phone camera images
 - Recommend foods based on nutrition goals and what you've already purchased/eaten
